@@ -6,11 +6,11 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yeyyy, Salamuchhhh\nI DM na ko";
-  gif.src = "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
+  gif.src = "https://raw.githubusercontent.com/XiaPlayz/Palibre/main/gif%20(1).webp";
 
   setTimeout(() => {
     window.location.href = "https://www.facebook.com/xiaaa.021";
-  }, 3000);
+  }, 3500);
 });
 
 noBtn.addEventListener("mouseover", () => {
