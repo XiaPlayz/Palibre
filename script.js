@@ -10,7 +10,7 @@ yesBtn.addEventListener("click", () => {
 
   setTimeout(() => {
     window.location.href = "https://www.facebook.com/xiaaa.021";
-  }, 3500);
+  }, 2000);
 });
 
 noBtn.addEventListener("mouseover", () => {
