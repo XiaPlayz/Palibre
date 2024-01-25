@@ -9,7 +9,7 @@ yesBtn.addEventListener("click", () => {
   gif.src = "https://raw.githubusercontent.com/XiaPlayz/Palibre/main/gif%20(1).webp";
 
   setTimeout(() => {
-    window.location.href = "https://www.facebook.com/xiaaa.021";
+    window.location.href = "https://www.facebook.com/messages/t/100029977772681";
   }, 2000);
 });
 
